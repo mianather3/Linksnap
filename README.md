@@ -2,7 +2,7 @@
 
 A self-hosted link shortener with a real-time analytics dashboard. Create short links, track every click, and visualize traffic with a **Top Referrers heatmap** and **Unique vs Total Clicks** breakdown.
 
-![Dashboard Preview](https://via.placeholder.com/900x500/0a0a0c/e8ff5a?text=LinkSnap+Dashboard)
+![Dashboard Preview](https://(https://linksnap-production-cead.up.railway.app/))
 
 ---
 
