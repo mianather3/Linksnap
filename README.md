@@ -27,20 +27,6 @@ A self-hosted link shortener with a real-time analytics dashboard.
 
 ---
 
-## Run Locally
-
-```bash
-git clone https://github.com/YOUR_USERNAME/linksnap.git
-cd linksnap
-npm install
-cp .env.example .env   # edit BASE_URL and IP_SALT
-npm run dev
-```
-
-Visit `http://localhost:3000`
-
----
-
 ## License
 
 MIT
